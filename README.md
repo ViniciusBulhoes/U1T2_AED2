@@ -1,5 +1,5 @@
 Time complexity studies in python notebooks
 
-Video link: https://www.loom.com/share/495542d4513f427b9106758e07e7ac78?sid=b6c96b3f-c6ff-4b4b-b69a-a79ffaef4f54
+Video link: https://www.loom.com/share/aec902299e63446a83c87943ba6e9125?sid=8e279fe5-ced2-4e9f-8008-403d05933898
 
 Notebooks with the lessons and answers are in the Answers folder
